@@ -14,6 +14,7 @@ export const Home = () => {
   const arr = [2, 43, 4, 554, 54];
   const copy = [...arr];
   const filtered = arr.shift();
+  console.log("nothing and second commit ");
   //   console.log({ filtered, arr });
 
   const obj = { name: "soheb", age: 23, address: "nanded" };
